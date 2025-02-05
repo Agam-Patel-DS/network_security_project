@@ -7,4 +7,6 @@ ipykernel
 PyYAML
 certifi
 scikit-learn
+mlflow
+dagshub
 # -e .
